@@ -8,6 +8,6 @@ and selecting either pick-up or drop-off.
 
 Here is a blog post I wrote about the project and results: http://nycdatascience.com/blog/student-works/uber-lyft-maximization:-more-money-for-the-time/
 
-Here is a link to the R Shiny app: laurentaylor.shinyapps.io/RShinyProject/
+Here is a link to the R Shiny app: https://laurentaylor.shinyapps.io/RShinyProject/
 
 The data is a free data set available on sfcta's Github: https://github.com/sfcta/tncstoday; https://www.sfcta.org/emerging-mobility/tncs-today
